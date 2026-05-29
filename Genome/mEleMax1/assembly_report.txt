@@ -1,0 +1,98 @@
+# Assembly name:  mEleMax1 primary haplotype
+# Organism name:  Elephas maximus indicus (Asiatic elephant)
+# Isolate:  mEleMax1
+# Sex:  male
+# Taxid:          99487
+# BioSample:      SAMN29174328
+# BioProject:     PRJNA850184
+# Submitter:      Vertebrate Genomes Project
+# Date:           2022-07-06
+# Assembly type:  haploid (principal pseudohaplotype of diploid)
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    JAMZQU01
+# Assembly method: Hifiasm v. 0.16.1; purge_dups v. 07.12.21; Bionano solve v. 3.3; Salsa v. 2.3
+# Expected final version: No
+# Genome coverage: 43.0x
+# Sequencing technology: PacBio Sequel II HiFi; Bionano optical mapping; Arima HiC
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_024166365.1
+# RefSeq assembly accession: GCF_024166365.1
+# RefSeq assembly and GenBank assemblies identical: yes
+# Linked assembly: GCA_024166345.1 (alternate pseudohaplotype of diploid)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_024166375.1	GCF_024166375.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+SUPER_1	assembled-molecule	1	Chromosome	CM044020.1	=	NC_064819.1	Primary Assembly	243826021	na
+SUPER_2	assembled-molecule	2	Chromosome	CM044021.1	=	NC_064820.1	Primary Assembly	236636829	na
+SUPER_3	assembled-molecule	3	Chromosome	CM044022.1	=	NC_064821.1	Primary Assembly	221642160	na
+SUPER_4	assembled-molecule	4	Chromosome	CM044023.1	=	NC_064822.1	Primary Assembly	197257046	na
+SUPER_5	assembled-molecule	5	Chromosome	CM044024.1	=	NC_064823.1	Primary Assembly	166437468	na
+SUPER_6	assembled-molecule	6	Chromosome	CM044025.1	=	NC_064824.1	Primary Assembly	144996526	na
+SUPER_7	assembled-molecule	7	Chromosome	CM044026.1	=	NC_064825.1	Primary Assembly	138054969	na
+SUPER_8	assembled-molecule	8	Chromosome	CM044027.1	=	NC_064826.1	Primary Assembly	134521654	na
+SUPER_9	assembled-molecule	9	Chromosome	CM044028.1	=	NC_064827.1	Primary Assembly	127432672	na
+SUPER_10	assembled-molecule	10	Chromosome	CM044029.1	=	NC_064828.1	Primary Assembly	120120716	na
+SUPER_11	assembled-molecule	11	Chromosome	CM044030.1	=	NC_064829.1	Primary Assembly	117052157	na
+SUPER_12	assembled-molecule	12	Chromosome	CM044031.1	=	NC_064830.1	Primary Assembly	110876029	na
+SUPER_13	assembled-molecule	13	Chromosome	CM044032.1	=	NC_064831.1	Primary Assembly	106010586	na
+SUPER_14	assembled-molecule	14	Chromosome	CM044033.1	=	NC_064832.1	Primary Assembly	100093644	na
+SUPER_15	assembled-molecule	15	Chromosome	CM044034.1	=	NC_064833.1	Primary Assembly	96493520	na
+SUPER_16	assembled-molecule	16	Chromosome	CM044035.1	=	NC_064834.1	Primary Assembly	95037378	na
+SUPER_17	assembled-molecule	17	Chromosome	CM044036.1	=	NC_064835.1	Primary Assembly	91502332	na
+SUPER_18	assembled-molecule	18	Chromosome	CM044037.1	=	NC_064836.1	Primary Assembly	84764919	na
+SUPER_19	assembled-molecule	19	Chromosome	CM044038.1	=	NC_064837.1	Primary Assembly	85783627	na
+SUPER_20	assembled-molecule	20	Chromosome	CM044039.1	=	NC_064838.1	Primary Assembly	84109276	na
+SUPER_21	assembled-molecule	21	Chromosome	CM044040.1	=	NC_064839.1	Primary Assembly	83887677	na
+SUPER_22	assembled-molecule	22	Chromosome	CM044041.1	=	NC_064840.1	Primary Assembly	81976604	na
+SUPER_23	assembled-molecule	23	Chromosome	CM044042.1	=	NC_064841.1	Primary Assembly	79875053	na
+SUPER_24	assembled-molecule	24	Chromosome	CM044043.1	=	NC_064842.1	Primary Assembly	67738374	na
+SUPER_25	assembled-molecule	25	Chromosome	CM044044.1	=	NC_064843.1	Primary Assembly	68857337	na
+SUPER_26	assembled-molecule	26	Chromosome	CM044045.1	=	NC_064844.1	Primary Assembly	48605916	na
+SUPER_27	assembled-molecule	27	Chromosome	CM044046.1	=	NC_064845.1	Primary Assembly	38378272	na
+SUPER_X	assembled-molecule	X	Chromosome	CM044047.1	=	NC_064846.1	Primary Assembly	181417050	na
+SUPER_Y	assembled-molecule	Y	Chromosome	CM044048.1	=	NC_064847.1	Primary Assembly	15906474	na
+SUPER_3_unloc_1	unlocalized-scaffold	3	Chromosome	JAMZQU010000004.1	=	NW_026060228.1	Primary Assembly	2575300	na
+SUPER_3_unloc_2	unlocalized-scaffold	3	Chromosome	JAMZQU010000005.1	=	NW_026060229.1	Primary Assembly	1702368	na
+SUPER_7_unloc_1	unlocalized-scaffold	7	Chromosome	JAMZQU010000011.1	=	NW_026060230.1	Primary Assembly	2733587	na
+SUPER_7_unloc_2	unlocalized-scaffold	7	Chromosome	JAMZQU010000012.1	=	NW_026060231.1	Primary Assembly	981676	na
+SUPER_14_unloc_1	unlocalized-scaffold	14	Chromosome	JAMZQU010000020.1	=	NW_026060232.1	Primary Assembly	561868	na
+SUPER_18_unloc_1	unlocalized-scaffold	18	Chromosome	JAMZQU010000025.1	=	NW_026060233.1	Primary Assembly	2688458	na
+SUPER_18_unloc_2	unlocalized-scaffold	18	Chromosome	JAMZQU010000026.1	=	NW_026060234.1	Primary Assembly	1891111	na
+SUPER_19_unloc_1	unlocalized-scaffold	19	Chromosome	JAMZQU010000028.1	=	NW_026060235.1	Primary Assembly	2524588	na
+SUPER_24_unloc_1	unlocalized-scaffold	24	Chromosome	JAMZQU010000034.1	=	NW_026060236.1	Primary Assembly	2414265	na
+SUPER_Y_unloc_1	unlocalized-scaffold	Y	Chromosome	JAMZQU010000039.1	=	NW_026060237.1	Primary Assembly	4629437	na
+SUPER_Y_unloc_2	unlocalized-scaffold	Y	Chromosome	JAMZQU010000040.1	=	NW_026060238.1	Primary Assembly	1277313	na
+SUPER_Y_unloc_3	unlocalized-scaffold	Y	Chromosome	JAMZQU010000041.1	=	NW_026060239.1	Primary Assembly	1007399	na
+SUPER_Y_unloc_4	unlocalized-scaffold	Y	Chromosome	JAMZQU010000042.1	=	NW_026060240.1	Primary Assembly	764348	na
+SUPER_Y_unloc_5	unlocalized-scaffold	Y	Chromosome	JAMZQU010000043.1	=	NW_026060241.1	Primary Assembly	400907	na
+SUPER_Y_unloc_6	unlocalized-scaffold	Y	Chromosome	JAMZQU010000044.1	=	NW_026060242.1	Primary Assembly	270290	na
+scaffold_120	unplaced-scaffold	na	na	JAMZQU010000045.1	=	NW_026060249.1	Primary Assembly	67116	na
+scaffold_130	unplaced-scaffold	na	na	JAMZQU010000046.1	=	NW_026060259.1	Primary Assembly	1881	na
+scaffold_129	unplaced-scaffold	na	na	JAMZQU010000047.1	=	NW_026060258.1	Primary Assembly	3174	na
+scaffold_127	unplaced-scaffold	na	na	JAMZQU010000048.1	=	NW_026060256.1	Primary Assembly	5505	na
+scaffold_114	unplaced-scaffold	na	na	JAMZQU010000049.1	=	NW_026060244.1	Primary Assembly	153354	na
+scaffold_88	unplaced-scaffold	na	na	JAMZQU010000050.1	=	NW_026060262.1	Primary Assembly	789820	na
+scaffold_122	unplaced-scaffold	na	na	JAMZQU010000051.1	=	NW_026060251.1	Primary Assembly	62503	na
+scaffold_112	unplaced-scaffold	na	na	JAMZQU010000052.1	=	NW_026060243.1	Primary Assembly	161557	na
+scaffold_124	unplaced-scaffold	na	na	JAMZQU010000053.1	=	NW_026060253.1	Primary Assembly	45227	na
+scaffold_126	unplaced-scaffold	na	na	JAMZQU010000054.1	=	NW_026060255.1	Primary Assembly	18130	na
+scaffold_61	unplaced-scaffold	na	na	JAMZQU010000055.1	=	NW_026060260.1	Primary Assembly	2301476	na
+scaffold_123	unplaced-scaffold	na	na	JAMZQU010000056.1	=	NW_026060252.1	Primary Assembly	54726	na
+scaffold_121	unplaced-scaffold	na	na	JAMZQU010000057.1	=	NW_026060250.1	Primary Assembly	66421	na
+scaffold_119	unplaced-scaffold	na	na	JAMZQU010000058.1	=	NW_026060248.1	Primary Assembly	80703	na
+scaffold_116	unplaced-scaffold	na	na	JAMZQU010000059.1	=	NW_026060245.1	Primary Assembly	138197	na
+scaffold_76	unplaced-scaffold	na	na	JAMZQU010000060.1	=	NW_026060261.1	Primary Assembly	1325547	na
+scaffold_117	unplaced-scaffold	na	na	JAMZQU010000061.1	=	NW_026060246.1	Primary Assembly	123511	na
+scaffold_128	unplaced-scaffold	na	na	JAMZQU010000062.1	=	NW_026060257.1	Primary Assembly	5310	na
+scaffold_125	unplaced-scaffold	na	na	JAMZQU010000063.1	=	NW_026060254.1	Primary Assembly	44090	na
+scaffold_118	unplaced-scaffold	na	na	JAMZQU010000064.1	=	NW_026060247.1	Primary Assembly	83699	na
